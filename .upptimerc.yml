@@ -24,7 +24,7 @@ status-website:
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Frai.se Status
-  introTitle: "**Frai.se Status Page**
+  introTitle: "**Frai.se Status Page**"
   introMessage: ""
   navbar:
     - title: Status
