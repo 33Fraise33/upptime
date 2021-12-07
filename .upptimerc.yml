@@ -20,7 +20,7 @@ status-website:
   theme: dark
   logoUrl: https://i.imgur.com/UgSg9YM.png
   favicon: https://i.imgur.com/UgSg9YM.png
-  name: Frai.se Status
+  name: Upptime
   introTitle: "**Frai.se Status Page**"
   introMessage: ""
   navbar:
