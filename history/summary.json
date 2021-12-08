@@ -22,7 +22,7 @@
     "url": "https://unitix.be",
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 701,
     "timeMonth": 701,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-08": 0
+    }
   },
   {
     "name": "Home Assistant",
