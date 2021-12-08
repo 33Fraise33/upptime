@@ -5,16 +5,19 @@ repo: upptime # The name of this repository
 sites:
   - name: Frai.se
     url: https://frai.se
+    icon: https://i.imgur.com/UgSg9YM.png
   - name: Unitix
     url: https://unitix.be
+    icon: https://unitix.be/favicon.ico
   - name: Home Assistant
     url: https://ha.frai.se
+    icon: https://www.home-assistant.io/images/favicon-192x192-full.png
   - name: Synapse Matrix
     url: https://matrix.frai.se
+    icon: https://matrix.org/favicon-32x32.png
 
 status-website:
   cname: status.frai.se
-#  baseUrl: /upptime
   theme: dark
   logoUrl: https://i.imgur.com/UgSg9YM.png
   favicon: https://i.imgur.com/UgSg9YM.png
@@ -29,3 +32,7 @@ status-website:
  
 assignees:
   - 33Fraise33
+  
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
