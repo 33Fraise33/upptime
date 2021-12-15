@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 501,
-    "timeWeek": 463,
+    "timeDay": 513,
+    "timeWeek": 495,
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {}
@@ -22,15 +22,15 @@
     "url": "https://unitix.be",
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
-    "status": "up",
-    "uptime": "62.66%",
-    "uptimeDay": "58.19%",
-    "uptimeWeek": "56.09%",
-    "uptimeMonth": "62.66%",
-    "uptimeYear": "62.66%",
+    "status": "down",
+    "uptime": "62.89%",
+    "uptimeDay": "59.62%",
+    "uptimeWeek": "56.14%",
+    "uptimeMonth": "62.89%",
+    "uptimeYear": "62.89%",
     "time": 760,
     "timeDay": 780,
-    "timeWeek": 763,
+    "timeWeek": 765,
     "timeMonth": 760,
     "timeYear": 760,
     "dailyMinutesDown": {
@@ -41,7 +41,7 @@
       "2021-12-11": 720,
       "2021-12-10": 664,
       "2021-12-09": 525,
-      "2021-12-08": 143
+      "2021-12-08": 123
     }
   },
   {
@@ -56,7 +56,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 548,
+    "timeDay": 500,
     "timeWeek": 537,
     "timeMonth": 491,
     "timeYear": 491,
@@ -74,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 765,
-    "timeDay": 684,
-    "timeWeek": 812,
+    "timeDay": 701,
+    "timeWeek": 768,
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {}
