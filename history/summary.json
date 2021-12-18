@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 597,
-    "timeWeek": 544,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 477,
+    "timeDay": 437,
+    "timeWeek": 529,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://unitix.be",
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
-    "status": "up",
-    "uptime": "71.16%",
-    "uptimeDay": "45.69%",
-    "uptimeWeek": "54.23%",
-    "uptimeMonth": "71.16%",
-    "uptimeYear": "71.16%",
-    "time": 749,
-    "timeDay": 686,
+    "status": "down",
+    "uptime": "71.52%",
+    "uptimeDay": "50.72%",
+    "uptimeWeek": "54.73%",
+    "uptimeMonth": "71.52%",
+    "uptimeYear": "71.52%",
+    "time": 750,
+    "timeDay": 697,
     "timeWeek": 751,
-    "timeMonth": 749,
-    "timeYear": 749,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2021-12-18": 675,
       "2021-12-17": 742,
@@ -41,7 +41,7 @@
       "2021-12-14": 659,
       "2021-12-13": 720,
       "2021-12-12": 553,
-      "2021-12-11": 197
+      "2021-12-11": 158
     }
   },
   {
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 508,
-    "timeWeek": 553,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "time": 501,
+    "timeDay": 596,
+    "timeWeek": 559,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   },
   {
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 703,
-    "timeWeek": 747,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "time": 753,
+    "timeDay": 715,
+    "timeWeek": 743,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   }
 ]
