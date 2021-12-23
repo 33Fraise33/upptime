@@ -22,12 +22,12 @@
     "url": "https://unitix.be",
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
-    "status": "up",
-    "uptime": "79.60%",
-    "uptimeDay": "58.87%",
-    "uptimeWeek": "55.02%",
-    "uptimeMonth": "79.60%",
-    "uptimeYear": "79.60%",
+    "status": "down",
+    "uptime": "79.73%",
+    "uptimeDay": "58.86%",
+    "uptimeWeek": "55.18%",
+    "uptimeMonth": "79.73%",
+    "uptimeYear": "79.73%",
     "time": 736,
     "timeDay": 740,
     "timeWeek": 712,
@@ -41,7 +41,7 @@
       "2021-12-19": 698,
       "2021-12-18": 710,
       "2021-12-17": 742,
-      "2021-12-16": 480
+      "2021-12-16": 460
     }
   },
   {
