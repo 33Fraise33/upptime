@@ -13,7 +13,7 @@ sites:
     url: https://ha.frai.se
     icon: https://www.home-assistant.io/images/favicon-192x192-full.png
   - name: Synapse Matrix
-    url: https://matrix.frai.se
+    url: https://matrix.frai.se/health
     icon: https://matrix.org/favicon-32x32.png
 
 status-website:
