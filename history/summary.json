@@ -4,11 +4,11 @@
     "url": "https://frai.se",
     "icon": "https://i.imgur.com/UgSg9YM.png",
     "slug": "frai-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 725,
     "timeDay": 615,
@@ -16,7 +16,7 @@
     "timeMonth": 973,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2022-02-05": 57
+      "2022-02-05": 62
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://unitix.be",
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
-    "status": "up",
-    "uptime": "94.98%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "99.45%",
+    "status": "down",
+    "uptime": "95.02%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "94.98%",
+    "uptimeYear": "95.02%",
     "time": 688,
     "timeDay": 1281,
     "timeWeek": 1103,
     "timeMonth": 969,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2022-02-05": 56,
+      "2022-02-05": 59,
       "2021-12-27": 354,
       "2021-12-26": 971,
       "2021-12-25": 410,
@@ -44,7 +44,7 @@
       "2021-12-23": 651,
       "2021-12-22": 689,
       "2021-12-21": 623,
-      "2021-12-20": 126
+      "2021-12-20": 102
     }
   },
   {
@@ -52,11 +52,11 @@
     "url": "https://ha.frai.se",
     "icon": "https://www.home-assistant.io/images/favicon-192x192-full.png",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 714,
     "timeDay": 381,
@@ -64,7 +64,7 @@
     "timeMonth": 953,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2022-02-05": 37
+      "2022-02-05": 39
     }
   },
   {
@@ -72,9 +72,9 @@
     "url": "https://matrix.frai.se/health",
     "icon": "https://matrix.org/favicon-32x32.png",
     "slug": "synapse-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.53%",
+    "uptimeDay": "97.52%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
