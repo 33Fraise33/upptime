@@ -1,7 +1,7 @@
 url: https://matrix.frai.se/health
-status: up
-code: 200
-responseTime: 631
-lastUpdated: 2022-07-09T23:17:41.332Z
+status: down
+code: 502
+responseTime: 19149
+lastUpdated: 2022-07-10T10:43:03.316Z
 startTime: Tue Dec 07 2021 12:27:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
