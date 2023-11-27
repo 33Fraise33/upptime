@@ -6,10 +6,13 @@ user-agent: upptime-github
 sites:
   - name: Frai.se
     url: https://frai.se
+    icon: https://i.imgur.com/UgSg9YM.png
   - name: Unitix
     url: https://unitix.be
+    icon: https://unitix.be/favicon.ico
   - name: Home Assistant
     url: https://ha.frai.se
+    icon: https://www.home-assistant.io/images/favicon-192x192-full.png
   - name: Dendrite Matrix
     url: https://matrix.frai.se/_matrix/static/
 
