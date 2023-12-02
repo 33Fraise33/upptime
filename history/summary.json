@@ -4,18 +4,20 @@
     "url": "https://frai.se",
     "icon": "https://i.imgur.com/UgSg9YM.png",
     "slug": "frai-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 430,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
-    "dailyMinutesDown": {}
+    "time": 789,
+    "timeDay": 2677,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
+    "dailyMinutesDown": {
+      "2023-12-02": 0
+    }
   },
   {
     "name": "Unitix",
@@ -40,35 +42,39 @@
     "url": "https://ha.frai.se",
     "icon": "https://www.home-assistant.io/images/favicon-192x192-full.png",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 791,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
-    "dailyMinutesDown": {}
+    "time": 513,
+    "timeDay": 656,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
+    "dailyMinutesDown": {
+      "2023-12-02": 0
+    }
   },
   {
     "name": "Dendrite Matrix",
     "url": "https://matrix.frai.se/_matrix/static/",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.frai.se.ico",
     "slug": "dendrite-matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 435,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "time": 488,
+    "timeDay": 532,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
+    "dailyMinutesDown": {
+      "2023-12-02": 0
+    }
   }
 ]
