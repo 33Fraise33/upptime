@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 560,
-    "timeDay": 452,
-    "timeWeek": 457,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 556,
+    "timeDay": 450,
+    "timeWeek": 507,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2023-12-17": 20,
       "2023-12-02": 19
@@ -26,18 +26,19 @@
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.68%",
+    "uptimeDay": "44.17%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
     "time": 167,
-    "timeDay": 144,
-    "timeWeek": 161,
+    "timeDay": 0,
+    "timeWeek": 140,
     "timeMonth": 167,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-12-21": 0
+      "2023-12-22": 39,
+      "2023-12-21": 765
     }
   },
   {
@@ -51,11 +52,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 462,
-    "timeDay": 452,
-    "timeWeek": 406,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 471,
+    "timeDay": 825,
+    "timeWeek": 468,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2023-12-17": 20,
       "2023-12-02": 19
@@ -72,11 +73,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 422,
-    "timeDay": 362,
-    "timeWeek": 416,
-    "timeMonth": 422,
-    "timeYear": 422,
+    "time": 421,
+    "timeDay": 366,
+    "timeWeek": 439,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2023-12-17": 20,
       "2023-12-02": 19
