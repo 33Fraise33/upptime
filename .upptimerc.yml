@@ -15,6 +15,10 @@ sites:
     icon: https://www.home-assistant.io/images/favicon-192x192-full.png
   - name: Dendrite Matrix
     url: https://matrix.frai.se/_matrix/static/
+    icon: https://raw.githubusercontent.com/matrix-org/matrix.org/main/static/images/matrix-favicon.svg
+  - name: Unitix Bizcard
+    url: https://bizcard.unitix.be
+    icon: https://enbizcard.vishnuraghav.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
