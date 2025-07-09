@@ -1,7 +1,7 @@
 url: https://frai.se
-status: up
-code: 200
-responseTime: 447
-lastUpdated: 2025-07-08T23:20:37.795Z
+status: down
+code: 502
+responseTime: 684
+lastUpdated: 2025-07-09T07:35:21.165Z
 startTime: 2023-11-27T21:52:06.323Z
 generator: Upptime <https://github.com/upptime/upptime>
