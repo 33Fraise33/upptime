@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.06%",
-    "time": 543,
-    "timeDay": 716,
-    "timeWeek": 611,
-    "timeMonth": 541,
-    "timeYear": 566,
+    "uptimeYear": "97.25%",
+    "time": 544,
+    "timeDay": 656,
+    "timeWeek": 629,
+    "timeMonth": 547,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2025-09-01": 16,
       "2025-08-15": 47,
@@ -37,8 +37,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -47,18 +46,19 @@
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
     "status": "down",
-    "uptime": "46.71%",
+    "uptime": "46.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.21%",
+    "uptimeYear": "0.00%",
     "time": 176,
-    "timeDay": 120,
-    "timeWeek": 195,
-    "timeMonth": 200,
-    "timeYear": 180,
+    "timeDay": 348,
+    "timeWeek": 215,
+    "timeMonth": 201,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-10-17": 103,
+      "2025-10-18": 99,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -421,8 +421,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -437,9 +436,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
     "time": 517,
-    "timeDay": 994,
-    "timeWeek": 629,
-    "timeMonth": 558,
+    "timeDay": 580,
+    "timeWeek": 645,
+    "timeMonth": 553,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2025-09-30": 23,
@@ -462,9 +461,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 497,
-    "timeDay": 754,
-    "timeWeek": 583,
-    "timeMonth": 509,
+    "timeDay": 578,
+    "timeWeek": 593,
+    "timeMonth": 512,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2025-08-15": 47,
@@ -489,18 +488,19 @@
     "icon": "https://enbizcard.vishnuraghav.com/favicon.ico",
     "slug": "unitix-bizcard",
     "status": "down",
-    "uptime": "44.70%",
+    "uptime": "44.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.21%",
+    "uptimeYear": "0.00%",
     "time": 199,
-    "timeDay": 271,
-    "timeWeek": 230,
-    "timeMonth": 218,
+    "timeDay": 180,
+    "timeWeek": 221,
+    "timeMonth": 219,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-10-17": 104,
+      "2025-10-18": 99,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -863,8 +863,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   }
 ]
