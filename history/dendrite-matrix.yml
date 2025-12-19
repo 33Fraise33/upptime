@@ -1,7 +1,7 @@
 url: https://matrix.frai.se/_matrix/static/
-status: down
-code: 530
-responseTime: 170
-lastUpdated: 2025-12-19T03:08:11.772Z
+status: up
+code: 200
+responseTime: 373
+lastUpdated: 2025-12-19T22:33:38.382Z
 startTime: 2023-11-27T21:52:08.313Z
 generator: Upptime <https://github.com/upptime/upptime>
