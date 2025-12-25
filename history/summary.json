@@ -11,9 +11,9 @@
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.59%",
     "time": 539,
-    "timeDay": 579,
-    "timeWeek": 522,
-    "timeMonth": 541,
+    "timeDay": 565,
+    "timeWeek": 510,
+    "timeMonth": 534,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2025-12-24": 21,
@@ -41,18 +41,19 @@
     "icon": "https://unitix.be/favicon.ico",
     "slug": "unitix",
     "status": "down",
-    "uptime": "42.48%",
+    "uptime": "42.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 182,
-    "timeDay": 255,
-    "timeWeek": 179,
-    "timeMonth": 221,
+    "timeDay": 236,
+    "timeWeek": 205,
+    "timeMonth": 213,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-12-24": 921,
+      "2025-12-25": 118,
+      "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -415,8 +416,7 @@
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
-      "2024-12-26": 1440,
-      "2024-12-25": 1440
+      "2024-12-26": 1440
     }
   },
   {
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 519,
-    "timeDay": 529,
-    "timeWeek": 527,
-    "timeMonth": 516,
+    "timeDay": 612,
+    "timeWeek": 516,
+    "timeMonth": 517,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2025-11-18": 51,
@@ -457,9 +457,9 @@
     "uptimeMonth": "97.34%",
     "uptimeYear": "99.59%",
     "time": 495,
-    "timeDay": 587,
-    "timeWeek": 446,
-    "timeMonth": 487,
+    "timeDay": 621,
+    "timeWeek": 458,
+    "timeMonth": 486,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-12-19": 1165,
@@ -487,18 +487,19 @@
     "icon": "https://enbizcard.vishnuraghav.com/favicon.ico",
     "slug": "unitix-bizcard",
     "status": "down",
-    "uptime": "40.49%",
+    "uptime": "40.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 198,
-    "timeDay": 226,
-    "timeWeek": 154,
-    "timeMonth": 191,
+    "timeDay": 221,
+    "timeWeek": 177,
+    "timeMonth": 196,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-12-24": 921,
+      "2025-12-25": 119,
+      "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -861,8 +862,7 @@
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
-      "2024-12-26": 1440,
-      "2024-12-25": 1440
+      "2024-12-26": 1440
     }
   }
 ]
